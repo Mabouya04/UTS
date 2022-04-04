@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">UTS</string>
+    <string name="laptop1">ASUS TUF Gaming FX505DY</string>
+    <string name="laptop2">ASUS ROG Zephyrus G14 GA401</string>
+    <string name="laptop3">ASUS TUF Gaming F15</string>
+    <string name="laptop4">MSI Modern 14</string>
+    <string name="laptop5">ASUS ROG Zephyrus Duo 15 SE</string>
+    <string name="laptop6">ASUS ROG GL553VD</string>
+    <string name="laptop7">Acer Predator Helios 300</string>
+    <string name="laptop8">MSI Katana GF66</string>
+    <string name="laptop9">Lenovo Legion 7I</string>
+    <string name="laptop10">Lenovo Legion Y530</string>
 </resources>
